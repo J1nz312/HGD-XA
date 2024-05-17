@@ -1,0 +1,31 @@
+{
+	"model_name": "模型名称",
+	"model_name": "YOLOv8",
+	"no_models": "客户端总数量",
+	"no_models": 10,
+	"type": "数据集信息",
+	"type": "cifar",
+	"global_epochs": "全局迭代次数",
+	"global_epochs": 20,
+	"local_epochs": "本地迭代次数",
+	"local_epochs": 3,
+	"k": "每一轮选用K个客户端进行训练",
+	"k": 5,
+	"batch_size": "本地训练每一轮的样本数",
+	"batch_size": 32,
+	"notes": "本地训练的超参数设置",
+	"lr": 0.001,
+	"momentum": 0.0001,
+	"lambda": 0.1,
+	"config_file": "ultralytics-main/ultralytics-main/ultralytics/cfg/models/v8/yolov8.yaml",
+	"other_key": "other_value",
+	"noise_multiplier": 1.0,
+	"max_grad_norm": 1.0
+     }
+
+
+
+
+
+
+
